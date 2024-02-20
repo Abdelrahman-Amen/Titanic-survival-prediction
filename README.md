@@ -1,6 +1,6 @@
 # Titanic-survival-prediction 🚢
 
-[Titanic-survival-prediction](https://github.com/Abdelrahman-Amen/Titanic-survival-prediction/tree/main)
+![titanic](https://github.com/Abdelrahman-Amen/Titanic-survival-prediction/assets/103226865/17246b49-6cf8-41ae-94f1-04e3558db969)
 
 The Titanic dataset is a well-known dataset in the field of data science and machine learning. It contains information about passengers aboard the RMS Titanic, which sank on its maiden voyage in 1912 after colliding with an iceberg. The dataset includes the following features:
 
