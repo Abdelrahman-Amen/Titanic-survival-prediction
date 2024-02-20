@@ -1,6 +1,4 @@
-# Titanic
-
-# Titanic Dataset Summary
+# Titanic-survival-prediction
 
 The Titanic dataset is a well-known dataset in the field of data science and machine learning. It contains information about passengers aboard the RMS Titanic, which sank on its maiden voyage in 1912 after colliding with an iceberg. The dataset includes the following features:
 
